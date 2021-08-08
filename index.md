@@ -36,7 +36,9 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
 </ul>
 
 ## Proximos Eventos 
+
 #### OWASP Lima los invita a participar del evento por los 20 años de OWASP!
+
 [![OWASP 20th Anniversary Image](assets/images/OWASP20thAnniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 {% include chapter_events.html group=page.meetup-group %}
