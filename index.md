@@ -26,7 +26,7 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
 
 
 ## Soporte al Cápitulo
-<p ALIGN="justify">Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
+<p ALIGN="justify"> Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
 <br>
 <ul>
   <li> Donaciones voluntarias.</li>
@@ -34,7 +34,7 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
   <li> Expositor.</li>
   <li> Difusión y participación de actividades.</li>
 </ul>
-
+</p>
 ## [](#header-2)Proximos Eventos 
 
 
