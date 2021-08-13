@@ -3,7 +3,7 @@ Mantente informado de todas las actividades que realicemos en el Cápitulo de OW
 
 * [Meetup](https://www.meetup.com/OWASP-Lima-Meetup-Group/)
 
-* [Twitter]https://twitter.com/owasp_peru)
+* [Twitter](https://twitter.com/owasp_peru)
  
 * [Facebook](https://www.facebook.com/OwaspPeru/) 
 
