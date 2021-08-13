@@ -46,6 +46,6 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
 
   
   
-## Upcoming Meetings: 
+## Nuestros Próximos Meetings: 
   
 {% include chapter_events.html group=page.meetup-group %}
