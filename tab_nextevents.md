@@ -2,11 +2,11 @@
 
 title: NextEvents
 displaytext: Próximos Eventos
-meetup-group: OWASP-Lima-Meetup-Group
 layout: null
 tab: true
 order: 4
 tags: Peru
+meetup-group: OWASP-Lima-Meetup-Group
 
 ---
 
@@ -27,6 +27,6 @@ Para actualizaciones, eventos, membresía; por favor visite nuestra página de M
 
 
 ### Próximos Eventos!!
-
+  
 {% include chapter_events.html group=page.meetup-group %}
 
