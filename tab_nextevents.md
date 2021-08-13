@@ -2,6 +2,7 @@
 
 title: NextEvents
 displaytext: Próximos Eventos
+meetup-group: OWASP-Lima-Meetup-Group
 layout: null
 tab: true
 order: 4
