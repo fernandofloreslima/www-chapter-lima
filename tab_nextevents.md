@@ -25,14 +25,7 @@ Puede enviar una idea en cualquier momento en el siguiente enlace: [OWASP Lima C
 Para actualizaciones, eventos, membresía; por favor visite nuestra página de Meetup: [Meetup de OWASP Lima](https://www.meetup.com/OWASP-Lima/)
 
 
-### Proyecto OWASP: Asegurando tus aplicaciones. -  19 de Agosto 2021
+### Próximos Eventos!!
 
-Los proyectos, guías y herramientas para protegerte
-En esta reunión se explicará de manera dinámica los diversos proyectos de OWASP y como pueden ayudarte en el SLDC.
-Speakers :
-<ul>
-  <li> Fernando Flores.</li>
-  <li> Carlos Ganoza.</li>
-  <li> Mauricio Urizar.</li>
-  <li> John Vargas.</li>
-</ul>
+{% include chapter_events.html group=page.meetup-group %}
+
