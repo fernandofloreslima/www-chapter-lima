@@ -43,6 +43,8 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
 <p align="justify">
 <a href="https://20thanniversary.owasp.org/"> <img src="assets/images/OWASP20thAnniversary.jpeg" alt="OWASP 20th Anniversary Image"></a>
 </p/>
+
+  
   
 ### Upcoming Meetings: 
 {% include chapter_events.html group=page.meetup-group %}
