@@ -8,6 +8,30 @@ order: 3
 tags: Peru
 
 ---
+## Eventos 2022
+
+### OWASP Chapter Meeting Abril
+Miércoles, Abril 20 2022 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* ¿Cómo convertirme en un PenTester? - Aleida Pérez (MX)
+Description: En esta charla se abordarán diversas recomendaciones sobre como iniciarse en el apasionante mundo del Pentesting
+
+* Historias de Vulnerabilidades de un Bug Hunter - Jesús Espinoza (MX)
+Description: En esta charla nos contará algunas vulnerabilidades web comunes que se encuentran como bug hunter y que podrían utilizar otros bug hunter o en su carrera de Pentester.
+
+
+### OWASP Chapter Meeting Febrero
+Jueves, Febrero 17 2022 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* OWASP Top Ten 2021 - John Vargas (Perú)
+Description: Revisión de la última versión del OWASP TOP TEN.
+
+* OWASP ZAP Web App Scanner - Fernando Flores (Perú)
+Description: Presentaremos las funcionalidades básicas y avanzadas con las que cuenta OWASP ZAP Web App Scanner para el Análisis de Vulnerabilidades.
+
+
 
 ## Eventos 2021
 ### OWASP Chapter Meeting Julio
