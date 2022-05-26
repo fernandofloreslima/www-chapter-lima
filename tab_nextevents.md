@@ -10,7 +10,7 @@ meetup-group: OWASP-Lima-Meetup-Group
 
 ---
 
-## OWASP Chapter Meetings 2021
+## OWASP Chapter Meetings 2022
 
 Debido a la pandemia de COVID-19 (Coronavirus), nuestros eventos continuarán en línea en nuestro canal de YouTube.
 ¡Puedes suscribirte y configurar un recordatorio y recibirás una notificación tan pronto como estemos en vivo!
@@ -28,7 +28,7 @@ Para actualizaciones, eventos, membresía; por favor visite nuestra página de M
 
 ### Próximos Eventos!!
   
-### OWASP Chapter Meeting AMyo 2022
+### OWASP Chapter Meeting Mayo 2022
 Martes, Mayo 31 2022 - 7:00 PM – 9:00 PM
 Reunión mensual de OWASP Lima Peru
 
