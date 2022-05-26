@@ -28,5 +28,16 @@ Para actualizaciones, eventos, membresía; por favor visite nuestra página de M
 
 ### Próximos Eventos!!
   
+### OWASP Chapter Meeting AMyo 2022
+Martes, Mayo 31 2022 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* GameHacking 101 - Josue Rojas (PE)
+Description: En esta charla nos explicara los principios básicos del hacking de video Juegos a través de ingeniería reversa.
+
+* Uso de Búsqueda binaria para Blind SQL Injection - Juan Pablo Quiñe (PE)
+Description: En esta charla se comparan técnicas de búsquedas binarias vs técnicas tradicionales en la explotación de vulnerabilidades Blind SQL Injection
+  
+  
 {% include chapter_events.html group=page.meetup-group %}
 
