@@ -8,7 +8,42 @@ order: 3
 tags: Peru
 
 ---
+## Eventos 2023
+
+### OWASP Chapter Meeting Junio
+Martes, Julio 25 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Conceptos, estándares y problemática desde el frente de seguridad en la adopción del Open Banking en Perú- Jean Lau (PE) & Luis Huapaya (PE)
+
+* Vulnerabilidades sobre NFC: 4 millones de saldo en el metro - Fernando Flores (PE)
+Description: Se analizarán las debilidades en las tarjetas MIFARE que se utilizan en el transporte público del Perú y que han sido manipuladas por mafias locales.
+
+
+### OWASP Chapter Meeting Junio
+Miércoles, Junio 21 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Técnicas de evasión de sistemas de detección y prevención de intrusiones (IDS/IPS) - Aleida Pérez (MX)
+Description: En esta charla, profundizaremos en las técnicas de evasión de IDS/IPS. Aprenderás cómo los atacantes logran evitar la detección y el bloqueo de los sistemas de seguridad, y cómo puedes fortalecer tus defensas para proteger mejor tu infraestructura.
+
+* Ciberseguridad para Todos - Alejandra Figueroa (MX)
+Description: Se abordarán la historia de la ciberseguridad, los conceptos principales, herramientas, cómo incursionar en el área, campo laboral y experiencias personales.
+
+
 ## Eventos 2022
+
+### OWASP Chapter Meeting Mayo
+Martes, Mayo 31 2022 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Técnicas de evasión de sistemas de detección y prevención de intrusiones (IDS/IPS) - Aleida Pérez (MX)
+Description: En esta charla nos explicará los principios básicos del hacking de video Juegos a través de ingeniería reversa.
+
+* Uso de Búsqueda binaria para Blind SQL Injection - Juan Pablo Quiñe (PE)
+Description: En esta charla se comparan técnicas de búsquedas binarias vs técnicas tradicionales en la explotación de vulnerabilidades Blind SQL Injection.
+
+
 
 ### OWASP Chapter Meeting Abril
 Miércoles, Abril 20 2022 - 7:00 PM – 10:00 PM
