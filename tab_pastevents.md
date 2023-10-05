@@ -8,6 +8,10 @@ order: 3
 tags: Peru
 
 ---
+## Eventos 2023
+
+### OWASP Chapter Meeting Junio
+
 ## Eventos 2022
 
 ### OWASP Chapter Meeting Abril
