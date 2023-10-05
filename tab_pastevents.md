@@ -8,6 +8,96 @@ order: 3
 tags: Peru
 
 ---
+## Eventos 2023
+
+### OWASP Chapter Meeting Septiembre
+Martes, Setiembre 21 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Desarrollo Seguro de Software: Evolución y Tendencias -
+  Ing. Miguel Salvador - Software Architect at Charles Taylor
+  
+* Abordando la Seguridad de las APIs: Estrategias Efectivas de Pentesting
+  Eduardo Sarria Palacios (PE) - Ethical Hacker Senior en Falabella. Bachiller en Ciencia de la Computación. BSCP, eWPTXv2, eCPPTv2 y CEH Practical.
+
+### OWASP Chapter Meeting Agosto
+Martes, Agosto 22 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* El arte del engaño: Revelando la Fascinante Danza entre la Seguridad Física y la Ingeniería Social - David Probisnky (RD) - Red Team Leader en Elevate Consult
+
+* Mitigar Vulnerabilidades Sin Morir en el Intento: Priorizando el Trabajo de Seguridad - Nicolás Valcárcel (PE) - Information security Leader en NextRoll
+
+
+### OWASP Chapter Meeting Julio
+Martes, Julio 25 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Conceptos, estándares y problemática desde el frente de seguridad en la adopción del Open Banking en Perú- Jean Lau (PE) & Luis Huapaya (PE)
+
+* Vulnerabilidades sobre NFC: 4 millones de saldo en el metro - Fernando Flores (PE)
+Description: Se analizarán las debilidades en las tarjetas MIFARE que se utilizan en el transporte público del Perú y que han sido manipuladas por mafias locales.
+
+
+### OWASP Chapter Meeting Junio
+Miércoles, Junio 21 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Técnicas de evasión de sistemas de detección y prevención de intrusiones (IDS/IPS) - Aleida Pérez (MX)
+Description: En esta charla, profundizaremos en las técnicas de evasión de IDS/IPS. Aprenderás cómo los atacantes logran evitar la detección y el bloqueo de los sistemas de seguridad, y cómo puedes fortalecer tus defensas para proteger mejor tu infraestructura.
+
+* Ciberseguridad para Todos - Alejandra Figueroa (MX)
+Description: Se abordarán la historia de la ciberseguridad, los conceptos principales, herramientas, cómo incursionar en el área, campo laboral y experiencias personales.
+
+
+## Eventos 2022
+
+### OWASP Chapter Meeting Mayo
+Martes, Mayo 31 2022 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Técnicas de evasión de sistemas de detección y prevención de intrusiones (IDS/IPS) - Aleida Pérez (MX)
+Description: En esta charla nos explicará los principios básicos del hacking de video Juegos a través de ingeniería reversa.
+
+* Uso de Búsqueda binaria para Blind SQL Injection - Juan Pablo Quiñe (PE)
+Description: En esta charla se comparan técnicas de búsquedas binarias vs técnicas tradicionales en la explotación de vulnerabilidades Blind SQL Injection.
+
+
+
+### OWASP Chapter Meeting Abril
+Miércoles, Abril 20 2022 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* ¿Cómo convertirme en un PenTester? - Aleida Pérez (MX)
+Description: En esta charla se abordarán diversas recomendaciones sobre como iniciarse en el apasionante mundo del Pentesting
+
+* Historias de Vulnerabilidades de un Bug Hunter - Jesús Espinoza (MX)
+Description: En esta charla nos contará algunas vulnerabilidades web comunes que se encuentran como bug hunter y que podrían utilizar otros bug hunter o en su carrera de Pentester.
+
+
+### OWASP Chapter Meeting Febrero
+Jueves, Febrero 17 2022 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* OWASP Top Ten 2021 - John Vargas (Perú)
+Description: Revisión de la última versión del OWASP TOP TEN.
+
+* OWASP ZAP Web App Scanner - Fernando Flores (Perú)
+Description: Presentaremos las funcionalidades básicas y avanzadas con las que cuenta OWASP ZAP Web App Scanner para el Análisis de Vulnerabilidades.
+
+
+
+## Eventos 2021
+### OWASP Chapter Meeting Julio
+Jueves, Julio 22 2021 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* OWASP SAMM - Aleida Pérez (México)
+La necesidad de planificar e implementar una buena estrategia de seguridad de software es uno de los tópicos más populares en la actualidad.
+Esta plática tiene como finalidad entender el Modelo SAMM (Software Assurance Maturity Model), diseñar un plan adecuado a las necesidades de cada organización, la aplicación del modelo de aseguramiento y las ventajas de mantener esta práctica constante.
+
+* BlackBox Crypto Testing - Cesar Neira (Perú)
+Description: La criptografía es considerada por muchos una bala de plata para resolver fallos de seguridad. Esta charla pretende romper este mito. Se mostrará como analizar y explotar, desde un enfoque de caja negra, aplicaciones web que hacen mal uso de la criptografía
 
 ## Eventos 2020 
 
