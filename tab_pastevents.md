@@ -10,7 +10,26 @@ tags: Peru
 ---
 ## Eventos 2023
 
-### OWASP Chapter Meeting Junio
+### OWASP Chapter Meeting Septiembre
+Martes, Setiembre 21 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* Desarrollo Seguro de Software: Evolución y Tendencias -
+  Ing. Miguel Salvador - Software Architect at Charles Taylor
+  
+* Abordando la Seguridad de las APIs: Estrategias Efectivas de Pentesting
+  Eduardo Sarria Palacios (PE) - Ethical Hacker Senior en Falabella. Bachiller en Ciencia de la Computación. BSCP, eWPTXv2, eCPPTv2 y CEH Practical.
+
+### OWASP Chapter Meeting Agosto
+Martes, Agosto 22 2023 - 7:00 PM – 9:00 PM
+Reunión mensual de OWASP Lima Peru
+
+* El arte del engaño: Revelando la Fascinante Danza entre la Seguridad Física y la Ingeniería Social - David Probisnky (RD) - Red Team Leader en Elevate Consult
+
+* Mitigar Vulnerabilidades Sin Morir en el Intento: Priorizando el Trabajo de Seguridad - Nicolás Valcárcel (PE) - Information security Leader en NextRoll
+
+
+### OWASP Chapter Meeting Julio
 Martes, Julio 25 2023 - 7:00 PM – 9:00 PM
 Reunión mensual de OWASP Lima Peru
 
